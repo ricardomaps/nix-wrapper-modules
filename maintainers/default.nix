@@ -11,6 +11,11 @@
     github = "rencire";
     githubId = 546296;
   };
+  ricardomaps = {
+    name = "Ricardo Mapurunga Junior";
+    github = "ricardomaps";
+    githubId = 49507078;
+  };
   vinnymeller = {
     name = "Vinny Meller";
     github = "vinnymeller";
